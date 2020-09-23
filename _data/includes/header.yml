@@ -10,7 +10,7 @@ navbar:
       sub_link: /#FAQs
 
 
-  - tabname: SCHEDULE
+  #- tabname: SCHEDULE
     link: schedule 
     subtopic:
      - subtab: Class and Time
@@ -19,8 +19,8 @@ navbar:
   - tabname: SYLLABUS
     link: syllabus
     subtopic:
-    - subtab: Technology
-      sub_link: syllabus#technology  
+    # - # subtab: Technology
+      # sub_link: syllabus#technology  
     - subtab: Materials
       sub_link: syllabus#Materials 
     - subtab: Late Policy

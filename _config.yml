@@ -1,10 +1,10 @@
 title: DSA # title which appears for the website
 email: mittalsagar006@gmail.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
-    A course website for 3rd semester DSA subject of GIT Jaipur
+    A course website for 3rd sem. DSA subject
  
 baseurl: ""   # specify the subpath of your site
-url: "" # the base hostname & protocol for YOUR site, e.g. http://example.com
+url: "https://sagarmittal1.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: sagar_mittal5 # twitter Username
 github_username: sagarmittal1 # GitHub Username
 theme: minima
