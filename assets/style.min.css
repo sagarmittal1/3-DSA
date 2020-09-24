@@ -1,5 +1,5 @@
 * {
-  font-family: 'Work Sans';
+  font-family: '';
   text-align: justify;
 }
 
@@ -8,7 +8,7 @@
 }
 
 hr{
-  border-bottom: 1px solid  rgba(22, 20, 20, 0.74)  ;
+  border-bottom: 1px solid  rgba(233, 17, 17, 0.74)  ;
 }
 a{
   cursor:pointer;
@@ -150,7 +150,7 @@ div.person .person-name {
 div.person .person-text {
   width: calc(100% - 9em); }
   div.person .person-text p {
-    color: #888;
+    color: rgb(17, 16, 16);
     font-size: 1.1em;
     margin: 0.1em 0; 
     padding-top: 1vh;}
@@ -197,7 +197,7 @@ ul.lists {
   padding: 0;
   overflow: hidden; }
   ul.lists li {
-    color: #000;
+    color: rgb(0, 0, 0);
     padding: 0.2em 0;
     font-size: 1.1em;
     list-style: none;

@@ -6,7 +6,7 @@ footer_content:
     subtopic: 
     - subtab: "Course Description"  #headings
       sub_link: "/#Course Description"
-    - subtab: "Instructors"
+    - subtab: "Faculty"
       sub_link: "/#Instructors"
     - subtab: "FAQs"
       sub_link: "/#FAQs"   
@@ -15,24 +15,26 @@ footer_content:
   - tabname: "Syllabus"
     link: "syllabus"
     subtopic:
-    - subtab: "Technology"
-      sub_link: "syllabus#Technology" 
-    - subtab: "Materials"
-      sub_link: "syllabus#Materials" 
-    - subtab: "Late Policy"
-      sub_link: "syllabus#Late Policy"  
-    - subtab: "Grading Policy"
-      sub_link: "syllabus#Grading Policy"
+    - subtab: Unit 1
+      sub_link: syllabus#Unit 1
+    - subtab: Unit 2
+      sub_link: syllabus#Unit 2 
+    - subtab: Unit 3
+      sub_link: syllabus#Unit 3
+    - subtab: Unit 4
+      sub_link: syllabus#Unit 4
+    - subtab: Unit 5
+      sub_link: syllabus#Unit 5
 
 
   - tabname: "Resources"
     link: "resources"
     subtopic:
-    - subtab: "Assignments"
-      sub_link: "resources#Assignments"  
-    - subtab: "Lecture Slides"
+    - subtab: "Slides & Notes"
       sub_link: "resources#Lecture Slides"  
     - subtab: "Online Resources"
       sub_link: "resources#Online Resources"  
-    - subtab: "Misc Links"
+    - subtab: "Standard Books"
       sub_link: "resources#Misc Links" 
+#    - subtab: "Assignments"
+#      sub_link: "resources#Assignments"  

@@ -2,40 +2,34 @@ lecture:
   - lec: 'Unit 0: Warm Up'
     resources:
       - resource:
-          type: 'Notes 1'
+          type: 'Note 1'
           link: '../assets/notes/DSA_Warm Up 1.pdf'
       - resource:
-          type: 'Notes 2'
+          type: 'Note 2'
           link: '../assets/notes/DSA_Warm Up 2.pdf'
   - lec: 'Unit 1: Stacks'
     resources:
       - resource:
           type: 'Slides'
           link: '../assets/slides/DSA_Unit1.2 Stacks.pptx'
-      - resource:
-          type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-      - resource:
-          type: 'Extra Reading'
-          link: '#'
   - lec: 'Unit 2.1: Queues'
     resources:
       - resource:
-          type: 'Notes 1'
+          type: 'Note 1'
           link: '../assets/notes/DSA_Queue 1.pdf'
       - resource:
-          type: 'Notes 2'
+          type: 'Note 2'
           link: '../assets/notes/DSA_Queue 2.pdf'
       - resource:
-          type: 'Notes 3'
+          type: 'Note 3'
           link: '../assets/notes/DSA_Queue 3.pdf'
   - lec: 'Unit 2.2: Linked Lists'
     resources:
       - resource:
-          type: 'Notes 1'
+          type: 'Note 1'
           link: '../assets/notes/DSA_Link List1.pdf'
       - resource:
-          type: 'Notes 2'
+          type: 'Note 2'
           link: '../assets/notes/DSA_Link List2.pdf'
   - lec: 'Unit 3: Searching Techniques'
     resources:
