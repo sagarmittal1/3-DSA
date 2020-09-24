@@ -27,11 +27,11 @@ layout: home
                     </div>
                     <div class="person-text">
                         <h2 class="person-name">Sohan Gupta </a></h2>
-                    <p><span>📧 sohan.gupta@gitjaipur.com</span></p>
-                    <p>Time : 9:00am - 2:00pm, Online</p>
+                    <p><span>{{item.email}}</span></p>
+                    <p>Time : {{item.consultation}} </p>
                     </div>
                 </div>
-                <hr style="margin: 3vh 15vw 5vh 0vw; border-style:dashed ;"> 
+                <br>
                 {% endfor %}
                 </div>
             </li>
