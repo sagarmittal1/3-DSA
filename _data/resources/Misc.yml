@@ -1,5 +1,9 @@
 misc:
-  - topic: Link 1
-    link: http://example.com/res1/path
-  - topic: Link 2
-    link: http://example.com/res2/path  
+  - topic: DSA Made Easy Narasimha Karumanchi
+    link: ../assets/books/DSA made easy Narasimha Karumanchi.pdf
+  - topic: Data Structures and Algorithms Using C
+    link: ../assets/books/Data Structures and Algorithms_ USING C.pdf
+  - topic: Data structures Using C - Reema Thareja
+    link: ../assets/books/Data structures using C - Reema Thareja.pdf
+  - topic: DSA Using C TataMcGraw Hill
+    link: ../assets/books/DSA using C TataMcGraw Hill.pdf

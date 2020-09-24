@@ -1,33 +1,59 @@
 lecture:
-  - lec: 'Lecture 1: Topic Name1' #edit Topic Name
+  - lec: 'Unit 0: Warm Up'
+    resources:
+      - resource:
+          type: 'Notes 1'
+          link: '../assets/notes/DSA_Warm Up 1.pdf'
+      - resource:
+          type: 'Notes 2'
+          link: '../assets/notes/DSA_Warm Up 2.pdf'
+  - lec: 'Unit 1: Stacks'
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/slides/orca.pptx'
+          link: '../assets/slides/DSA_Unit1.2 Stacks.pptx'
       - resource:
           type: 'Notes'
           link: '../assets/notes/orca.pdf'
       - resource:
           type: 'Extra Reading'
           link: '#'
-  - lec: 'Lecture 2: Topic Name2'
+  - lec: 'Unit 2.1: Queues'
     resources:
       - resource:
-          type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-  - lec: 'Lecture 3: Topic Name3'
+          type: 'Notes 1'
+          link: '../assets/notes/DSA_Queue 1.pdf'
+      - resource:
+          type: 'Notes 2'
+          link: '../assets/notes/DSA_Queue 2.pdf'
+      - resource:
+          type: 'Notes 3'
+          link: '../assets/notes/DSA_Queue 3.pdf'
+  - lec: 'Unit 2.2: Linked Lists'
     resources:
       - resource:
-          type: 'Extra Reading'
-          link: '#'
+          type: 'Notes 1'
+          link: '../assets/notes/DSA_Link List1.pdf'
       - resource:
-          type: 'Video Lecture'
-          link: '#'
-  - lec: 'Lecture 4: Topic Name4'
+          type: 'Notes 2'
+          link: '../assets/notes/DSA_Link List2.pdf'
+  - lec: 'Unit 3: Searching Techniques'
     resources:
       - resource:
-          type: 'Video Lecture'
-          link: '#'
+          type: 'Slide 1'
+          link: '../assets/slides/DSA_Unit3.1 Lect. 1.pptx'
+      - resource:
+          type: 'Slide 2'
+          link: '../assets/slides/DSA_Unit3.2 Lect. 2.pptx'
+      - resource:
+          type: 'Slide 3'
+          link: '../assets/slides/DSA_Unit3.3 Lect. 3.pptx'
+      - resource:
+          type: 'Slide 4'
+          link: '../assets/slides/DSA_Unit3.4 Lect. 4.pptx'
+      - resource:
+          type: 'Slide 5'
+          link: '../assets/slides/DSA_Unit3.5 Lect. 5.pptx'
   
 # - lec: 'Lecture 5: Topic Name5'
 #   resources:
